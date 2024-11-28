@@ -1,0 +1,5 @@
+{
+    "Function: sum_list": {"points": 3, "description": "Defines a function to sum elements in a list."},
+    "Loop: For": {"points": 3, "description": "Iterates through the list with a for loop."},
+    "Condition: If": {"points": 2, "description": "Filters elements based on a condition."}
+}

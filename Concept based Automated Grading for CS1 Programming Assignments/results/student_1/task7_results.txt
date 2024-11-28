@@ -1,0 +1,4 @@
+Task: task7
+Final Task Score: 22.57
+Similarity Score: 0.70
+Feedback:

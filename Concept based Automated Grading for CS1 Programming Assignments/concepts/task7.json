@@ -1,0 +1,5 @@
+{
+    "Function: is_palindrome": {"points": 4, "description": "Defines a function to check if a string is a palindrome."},
+    "Condition: If": {"points": 3, "description": "Uses conditions to validate the palindrome logic."},
+    "Return: Result": {"points": 2, "description": "Returns true or false based on the check."}
+}

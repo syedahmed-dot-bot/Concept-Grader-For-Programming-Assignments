@@ -1,0 +1,10 @@
+Task: task6
+Final Task Score: 16.75
+Similarity Score: 0.17
+Feedback:
+Your code includes unnecessary or incorrect concepts:
+  - ('Function: multiply_numbers', None)
+  - ('Block_1', 'Function: multiply_numbers')
+  - ('Function: add_numbers', None)
+Your code includes unnecessary or incorrect relationships:
+  - Function: add_numbers → Function: multiply_numbers

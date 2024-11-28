@@ -1,0 +1,5 @@
+{
+    "Function: calculate": {"points": 3, "description": "Defines a calculate function."},
+    "Loop: While": {"points": 4, "description": "Includes a while loop for repeated execution."},
+    "Print: Output": {"points": 2, "description": "Prints output to the console."}
+}

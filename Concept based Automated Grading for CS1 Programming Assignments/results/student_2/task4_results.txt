@@ -1,0 +1,11 @@
+Task: task4
+Final Task Score: 21.52
+Similarity Score: 0.17
+Feedback:
+Your code includes unnecessary or incorrect concepts:
+  - ('Concept: For Loop', None)
+  - ('Block_1', 'Concept: For Loop')
+  - ('Function: reverse_string', None)
+Your code includes unnecessary or incorrect relationships:
+  - Function: reverse_string → Concept: For Loop
+  - Concept: For Loop → Concept: For Loop

@@ -1,0 +1,5 @@
+{
+    "Function: add_numbers": {"points": 2, "description": "Defines a function to add two numbers."},
+    "Function: multiply_numbers": {"points": 2, "description": "Defines a function to multiply two numbers."},
+    "Return: Result": {"points": 2, "description": "Returns the result of the operation."}
+}

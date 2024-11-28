@@ -1,0 +1,11 @@
+Task: task5
+Final Task Score: 18.84
+Similarity Score: 0.17
+Feedback:
+Your code includes unnecessary or incorrect concepts:
+  - ('Concept: For Loop', None)
+  - ('Block_1', 'Concept: For Loop')
+  - ('Function: sum_list', None)
+Your code includes unnecessary or incorrect relationships:
+  - Function: sum_list → Concept: For Loop
+  - Concept: For Loop → Concept: For Loop

@@ -1,0 +1,12 @@
+Task: task1
+Final Task Score: 14.54
+Similarity Score: 0.50
+Feedback:
+Your code includes unnecessary or incorrect concepts:
+  - ('Block_3', 'Concept: Conditional Branch')
+  - ('Block_2', 'Concept: If Condition')
+  - ('Concept: Conditional Branch', None)
+  - ('Concept: If Condition', None)
+Your code includes unnecessary or incorrect relationships:
+  - Concept: If Condition → Concept: Conditional Branch
+  - Concept: For Loop → Concept: If Condition

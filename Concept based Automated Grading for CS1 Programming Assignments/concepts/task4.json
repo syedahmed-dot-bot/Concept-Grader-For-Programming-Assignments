@@ -1,0 +1,5 @@
+{
+    "Function: reverse_string": {"points": 3, "description": "Defines a function to reverse a string."},
+    "Loop: For": {"points": 2, "description": "Uses a for loop for iteration."},
+    "Condition: If": {"points": 2, "description": "Uses an if condition to validate input."}
+}

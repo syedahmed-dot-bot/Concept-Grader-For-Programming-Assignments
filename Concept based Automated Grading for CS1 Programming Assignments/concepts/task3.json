@@ -1,0 +1,5 @@
+{
+    "Function: factorial": {"points": 4, "description": "Defines a recursive factorial function."},
+    "Recursion: Call": {"points": 5, "description": "Uses recursion in the function."},
+    "Condition: Base Case": {"points": 3, "description": "Includes a base case for the recursion."}
+}

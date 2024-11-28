@@ -1,0 +1,5 @@
+{
+    "Function: main": {"points": 2, "description": "Defines a main function."},
+    "Loop: For": {"points": 3, "description": "Uses a for loop to iterate."},
+    "Condition: If": {"points": 2, "description": "Includes an if statement for conditional logic."}
+}
